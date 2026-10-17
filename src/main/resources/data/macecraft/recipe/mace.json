@@ -2,19 +2,19 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "pattern": [
-    "H",
-    "W",
+    "I",
+    "S",
     "B"
   ],
   "key": {
-    "H": {
-      "item": "minecraft:heavy_core"
+    "I": {
+      "item": "minecraft:iron_block"
     },
-    "W": {
-      "item": "minecraft:wind_charge"
+    "S": {
+      "item": "minecraft:string"
     },
     "B": {
-      "item": "minecraft:breeze_rod"
+      "item": "minecraft:blaze_rod"
     }
   },
   "result": {
