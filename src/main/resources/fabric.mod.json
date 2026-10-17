@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "macecraft",
+  "version": "${version}",
+  "name": "Mace Craft",
+  "description": "Mace (gurz) ni craft qilish imkonini beradi.",
+  "authors": ["shahzod"],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["uz.shahzod.macecraft.MaceCraftMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "~1.21",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
